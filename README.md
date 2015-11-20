@@ -2,4 +2,4 @@
 
 This is the first application for the 
 [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
-by [Michael Hartle](http://www.michaelhartl.com/)
+by [Michael Hartle](http://www.michaelhartl.com/)# hello_app
